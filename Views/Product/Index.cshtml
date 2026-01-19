@@ -1,0 +1,18 @@
+﻿@model List<Product>
+
+<div class="row">
+@foreach (var p in Model)
+{
+    <div class="col-md-3">
+        <div class="card">
+            <img src="@p.ImageUrl" class="card-img-top" />
+            <div class="card-body">
+                <h5>@p.Name</h5>
+                <p>@p.Price.ToString("N0") đ</p>
+                <a asp-action="Detail" asp-route-id="@p.Id"
+                   class="btn btn-success">Mua</a>
+            </div>
+        </div>
+    </div>
+}
+</div>

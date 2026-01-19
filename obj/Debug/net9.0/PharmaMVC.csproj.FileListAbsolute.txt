@@ -1,0 +1,8 @@
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.csproj.AssemblyReference.cache
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.AssemblyInfoInputs.cache
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.AssemblyInfo.cs
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.csproj.CoreCompileInputs.cache
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.RazorAssemblyInfo.cache
+C:\Users\him62\PharmaMVC\obj\Debug\net9.0\PharmaMVC.RazorAssemblyInfo.cs
